@@ -96,6 +96,7 @@ Plays the host bot against all the others on all the maps
   -l, --elo         Calculates the elo for the run
   -m, --all-maps    Runs all teams specified on all maps in maps/
   -o, --host        Specify a host for the tournament for VsWorld
+  -p, --processes   Specify the number of simultaneous processes used to run matches
   -r, --replay-dir  Specify the directory to save the replays in    [default: "replays"]
   -s, --series      Players play the maps in series instead 1 by 1
   -t, --all-teams   Runs all teams in src/ on the specified maps
